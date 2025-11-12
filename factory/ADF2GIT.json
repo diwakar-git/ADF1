@@ -1,0 +1,9 @@
+{
+	"name": "ADF2GIT",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6191e3e8-e6a3-41c2-9c63-46ad69e9f084",
+		"tenantId": "a58a1f00-ad24-4fac-a95e-43c177169dc2"
+	}
+}
