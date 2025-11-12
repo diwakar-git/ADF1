@@ -1,0 +1,13 @@
+{
+	"name": "lscsvtopar",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"description": "csv to parquet ls",
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://adls1bulkcsv.dfs.core.windows.net/",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEI1ODU1OTg5LUQ3NTctNEU0RC04RDQyLTJBMzYzMDM4MzhDQ18xMjc5YWNlZS1kNTRjLTQ5YTgtYWE2Zi0xOWQ5ZGZkZTc0ZTAiDQp9"
+		}
+	}
+}
